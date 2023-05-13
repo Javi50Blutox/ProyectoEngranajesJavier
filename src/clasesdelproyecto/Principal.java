@@ -15,8 +15,6 @@ public class Principal {
 		
 		// Ofrecer una propuesta en caso de querer obtener más información sobre los engranajes
 		String propuesta = ed.propuestaparacuriosos();
-		System.out.println(propuesta);
-		
+		System.out.println(propuesta);	
 	}
-
 }
