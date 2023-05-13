@@ -3,18 +3,26 @@ package clasesdelproyecto;
 
 public class Tiposdemecanismos {
 	
-	String elecciónengranaje() {
+	static String eleccionengranaje(String tipo) {
 		
-		String eRecto, eHelicoidal, eConico, etornillo, eHipoide;
-
-		Switch
-}
+		String resultado ="";
+		
+		switch (tipo) {
+		case "Recto":
+			resultado = "...";
+			return resultado;
+			
+		
+		default:
+			return "Elección Incorrecta";
+			
+		}
 	
 	}
 	
 		
 	
-	no tengo nada aqui todavia
+	//Jandro, si lees esto eres gay
 	
 	
 

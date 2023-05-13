@@ -23,19 +23,6 @@ public class Principal {
 		String propuesta = ed.propuestaparacuriosos();
 		System.out.println(propuesta);
 		
-		
-		String engranaje = ed.engranajes();
-		System.out.println(engranaje);
-	
-	
-	//Tiposdemecanismos mec = new Tiposdemecanismos();
-	
-	
-	
-	
-	
-	
-	
 	}
 
 }
